@@ -8,7 +8,7 @@ namespace ConsoleApp5
 {
     public class Solution
     {
-        public int GetConsequetiveString(string s)
+        public int GetUnconsequetiveString(string s)
         {
             int maxLength = 1;
             int currentLength = 1;
